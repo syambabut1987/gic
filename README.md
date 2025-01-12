@@ -1,2 +1,2 @@
 # gic
-GIC Self Drive Simulation
+Auto Drive - GIC Self Drive Simulation
